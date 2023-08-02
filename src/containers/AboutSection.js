@@ -8,7 +8,7 @@ const AboutSection = () => {
     <section id="about">
       <div className="container">
         <p className="title">About Us</p>
-        <p className="subtitle">Our Teammate</p>
+        <p className="subtitle">Rekanan Kami</p>
         <div className="image-and-content">
           <div className="content">
             <p className="description">
